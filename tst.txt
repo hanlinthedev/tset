@@ -1,2 +1,13 @@
-sfes
+sfes t
 se
+ser
+git
+
+local , remotesfds
+fasf
+asfdsf
+
+
+Working folder -> Staging Area  -> Local Repository -> Github Repository
+                  git add           git commit           git push
+                  fsadfs
